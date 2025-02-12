@@ -1,0 +1,7 @@
+Bienvenue! 
+Pour jouer :
+1. Double-cliquez sur lancer_jeu.bat
+OU
+1. Ouvrez un terminal dans ce dossier (Shift + Clic droit → Ouvrir dans le terminal)
+2. Tapez : pip install -r requirements.txt
+3. Tapez : python main.py
